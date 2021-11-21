@@ -1,0 +1,15 @@
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\InventoryStockManagementServiceApplication.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\repository\ProductRepository.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\controller\RawMaterialController.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\config\SwaggerConfig.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\repository\WarehouseRepository.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\entity\ProductStockRequest.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\controller\ProductController.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\entity\RawMaterial.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\enums\MeasurementUnit.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\entity\Product.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\repository\RawMaterialRepository.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\entity\Warehouse.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\service\implementation\StockManagementServiceImpl.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\entity\RawMaterialStockRequest.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-stock-management-service\src\main\java\com\cg\inventorystockmanagementservice\service\StockManagementService.java

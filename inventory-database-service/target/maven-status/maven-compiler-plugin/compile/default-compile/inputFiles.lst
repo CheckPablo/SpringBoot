@@ -1,0 +1,17 @@
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\Warehouse.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\Supplier.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\config\H2DatabaseConfiguration.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\enums\QualityCheck.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\InventoryDatabaseServiceApplication.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\Product.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\RawMaterialOrder.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\Distributor.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\Address.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\User.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\enums\OrderStatus.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\UserDetails.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\controller\Greetings.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\ProductOrder.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\entity\RawMaterial.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\enums\Gender.java
+C:\Users\Dell 5400 i7\IdeaProjects\inventory\inventory-database-service\src\main\java\com\cg\inventorydatabaseservice\enums\MeasurementUnit.java

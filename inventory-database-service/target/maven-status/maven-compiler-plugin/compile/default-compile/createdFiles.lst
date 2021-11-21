@@ -1,0 +1,17 @@
+com\cg\inventorydatabaseservice\entity\ProductOrder.class
+com\cg\inventorydatabaseservice\entity\Warehouse.class
+com\cg\inventorydatabaseservice\enums\Gender.class
+com\cg\inventorydatabaseservice\entity\RawMaterial.class
+com\cg\inventorydatabaseservice\entity\Distributor.class
+com\cg\inventorydatabaseservice\entity\Product.class
+com\cg\inventorydatabaseservice\entity\UserDetails.class
+com\cg\inventorydatabaseservice\entity\User.class
+com\cg\inventorydatabaseservice\enums\MeasurementUnit.class
+com\cg\inventorydatabaseservice\enums\OrderStatus.class
+com\cg\inventorydatabaseservice\enums\QualityCheck.class
+com\cg\inventorydatabaseservice\controller\Greetings.class
+com\cg\inventorydatabaseservice\entity\RawMaterialOrder.class
+com\cg\inventorydatabaseservice\entity\Address.class
+com\cg\inventorydatabaseservice\entity\Supplier.class
+com\cg\inventorydatabaseservice\config\H2DatabaseConfiguration.class
+com\cg\inventorydatabaseservice\InventoryDatabaseServiceApplication.class
